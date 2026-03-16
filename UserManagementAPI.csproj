@@ -29,7 +29,6 @@
     <Folder Include="Middleware\" />
     <Folder Include="Validators\" />
     <Folder Include="Services\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>

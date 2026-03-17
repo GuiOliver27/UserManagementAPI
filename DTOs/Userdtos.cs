@@ -28,6 +28,7 @@ public record UserResponse(
     string Role,
     bool IsActive,
     string? ProfilePictureUrl,
+    string? profilePictureUrl,
     DateTime CreatedAt,
     DateTime? LastLoginAt
 );
